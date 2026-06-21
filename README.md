@@ -1,6 +1,6 @@
  Decision-Tree-Classification-IBM-AI-Engineer
 
- # 💊 Drug Prescription Prediction using Decision Trees
+ 💊 Drug Prescription Prediction using Decision Trees
 
 [Python](https://img.shields.io/badge/Python-3.14-blue?logo=python)
 [Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.6.0-orange?logo=scikit-learn)
@@ -77,3 +77,4 @@ Because it's a decision tree, we can look exactly at how it makes decisions. It 
 Key Insight:
 I also tested what happens if we restrict the model's "thinking" by reducing the tree depth to 3. The accuracy dropped significantly to 81.6%. This proved that the 4th level of questions was absolutely necessary to accurately distinguish between the final few drugs.
 
+Course Participant/Code Executor: Obinna Nwosu C, Author: Jeff Grossman, Other Contributor(s): Abhishek Gagneja, © IBM Corporation. All rights reserved.
